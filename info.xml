@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<nsbm>
+    <students>
+        <batches>
+            <cgv>
+                <id name="1">1</id>
+                <indexNumber name="1">10000409</indexNumber>
+                <studentName name="1">M S Dilshanika Perera</studentName>
+
+                <id name="2">2</id>
+                <indexNumber name="2">10009301</indexNumber>
+                <studentName name="2">C W M A Shehan Abeyrathne</studentName>
+
+                <id name="3">3</id>
+                <indexNumber name="3">10009302</indexNumber>
+                <studentName name="3">B A K M Chithrananda</studentName>
+
+                <id name="4">4</id>
+                <indexNumber name="4">10009303</indexNumber>
+                <studentName name="4">W Shashini Minosha De Silva</studentName>
+
+                <id name="5">5</id>
+                <indexNumber name="5">10009304</indexNumber>
+                <studentName name="5">K L Udara Maduranga Liyanage</studentName>
+
+                <id name="6">6</id>
+                <indexNumber name="6">10009306</indexNumber>
+                <studentName name="6">Hansa Anuradha Wickramanayake</studentName>
+
+            </cgv>
+        </batches>
+    </students>
+</nsbm>
